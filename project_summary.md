@@ -14,3 +14,9 @@ Here is the running list of seeds.
 
 
 Afterwards, I need to get the tracks and likes from each person in my database. Omg.
+
+Note to self:
+I should probably get a list of all the users who I've gotten the likes and streams of and put that in a set.
+The put the followers and following users in a set
+take the difference
+and use that as my queue!
