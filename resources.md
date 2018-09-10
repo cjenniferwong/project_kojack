@@ -7,3 +7,5 @@ https://www.kernix.com/blog/community-detection-in-social-networks_p13
 
 Community Detection in Directed Graphs:
 https://stackoverflow.com/questions/30604350/networkx-finding-communities-of-directed-graph
+
+https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
