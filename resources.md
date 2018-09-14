@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/30604350/networkx-finding-communities-of-dir
 
 https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
 
-
+https://www.coursera.org/lecture/python-social-network-analysis/link-prediction-hvFPZ
 
 Learning how to use Gephi:
 https://www.youtube.com/watch?v=UJgPTnBmAZM
